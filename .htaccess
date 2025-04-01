@@ -1,10 +1,10 @@
 
-# RewriteEngine On
-# RewriteBase /
+ RewriteEngine On
+ RewriteBase /
 
 
 # Si le fichier ou dossier demandé n'existe pas, rediriger vers index.php
-# RewriteCond %{REQUEST_FILENAME} !-f
-# RewriteCond %{REQUEST_FILENAME} !-d
-# RewriteRule ^(.+)$ index.php [L,QSA]
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteCond %{REQUEST_FILENAME} !-d
+ RewriteRule ^(.+)$ index.php [L,QSA]
                     
