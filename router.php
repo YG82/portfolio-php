@@ -20,7 +20,7 @@ switch ($_SERVER['REQUEST_URI']) {
         echo "page de projets";
         break;
     case '/contact':
-        echo "page de contact";
+        include './templates/contact.php';
         break;
     default:
         echo "page 404, introuvable";
