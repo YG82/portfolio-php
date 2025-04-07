@@ -34,16 +34,16 @@
 
             <!-- Menu navigation -->
             <ul class="bg-slate-100 p-1 rounded-lg hidden md:flex gap-4" id="menu">
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/about' ? 'bg-white text-slate-800 b rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/about' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/about">Présentation</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/skills' ? 'bg-white text-slate-800 b rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/skills' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/skills">Mes compétences</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/projects' ? 'bg-white text-slate-800 b rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/projects' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/projects">Mes projets</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/contact' ? 'bg-white text-slate-800 b rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/contact' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/contact">Contact</a>
                 </li>
             </ul>

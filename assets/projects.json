@@ -2,6 +2,7 @@
     {
         "title": "E-commerce Store",
         "description": "Un site de commerce électronique permettant aux utilisateurs d'acheter des produits en ligne.",
+        "link":"https://google.com",
         "stack": [
             "React",
             "Node.js",
@@ -11,6 +12,7 @@
     {
         "title": "Blog Personnel",
         "description": "Un blog où les utilisateurs peuvent publier des articles et commenter ceux des autres.",
+        "link":"https://google.com",
         "stack": [
             "WordPress",
             "PHP",
@@ -20,6 +22,7 @@
     {
         "title": "Application de Gestion de Projets",
         "description": "Une plateforme pour gérer des tâches et collaborer avec une équipe.",
+        "link":"https://google.com",
         "stack": [
             "Vue.js",
             "Firebase",
@@ -29,6 +32,7 @@
     {
         "title": "Portfolio Photographique",
         "description": "Un site pour afficher et partager des photographies professionnelles.",
+        "link":"https://google.com",
         "stack": [
             "HTML",
             "CSS",
@@ -38,6 +42,7 @@
     {
         "title": "Plateforme de Streaming Vidéo",
         "description": "Un site permettant aux utilisateurs de regarder et partager des vidéos.",
+        "link":"https://google.com",
         "stack": [
             "Angular",
             ".NET Core",
@@ -47,6 +52,7 @@
     {
         "title": "Site d'Événements Locaux",
         "description": "Une application pour découvrir et réserver des événements locaux.",
+        "link":"https://google.com",
         "stack": [
             "Next.js",
             "GraphQL",
@@ -56,6 +62,7 @@
     {
         "title": "Application de Recettes de Cuisine",
         "description": "Un site pour rechercher, partager et sauvegarder des recettes de cuisine.",
+        "link":"https://google.com",
         "stack": [
             "Django",
             "Python",
@@ -65,6 +72,7 @@
     {
         "title": "Plateforme de Réseautage Social",
         "description": "Un réseau social permettant aux utilisateurs de se connecter et partager du contenu.",
+        "link":"https://google.com",
         "stack": [
             "Ruby on Rails",
             "Redis",
@@ -74,6 +82,7 @@
     {
         "title": "Site de Réservation de Voyages",
         "description": "Une plateforme pour réserver des billets d'avion, hôtels et locations de voiture.",
+        "link":"https://google.com",
         "stack": [
             "Laravel",
             "PHP",
@@ -83,10 +92,13 @@
     {
         "title": "Application de Suivi Fitness",
         "description": "Un site pour suivre les activités physiques et objectifs santé.",
+        "link":"https://google.com",
         "stack": [
             "Flutter Web",
             ".NET API",
             "PostgreSQL"
         ]
     }
+    
+    
 ]
