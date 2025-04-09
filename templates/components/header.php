@@ -18,11 +18,11 @@
 </head>
 
 <body>
-    <header class="bg-white text-slate-700">
-        <nav class="p-2 flex justify-between items-center border-b border-slate-200 sticky top-0">
+    <header class="bg-slate-800 text-slate-50">
+        <nav class="p-2 flex justify-between items-center border-b border-cyan-300 sticky top-0">
             <!-- Logo -->
             <a href="/">
-                <img src="./images/logo.png" alt="votre logo" width="50">
+                <img src="./images/logo.png" alt="votre logo" width="50" >
             </a>
 
             <!-- Bouton hamburger pour mobile -->
@@ -33,17 +33,17 @@
             </button>
 
             <!-- Menu navigation -->
-            <ul class="bg-slate-100 p-1 rounded-lg hidden md:flex gap-4" id="menu">
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/about' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
+            <ul class="bg-transparent border-b border-cyan-300 p-1 rounded-lg hidden md:flex gap-4" id="menu">
+                <li class="p-2 hover:text-white <?= $currentPage == '/about' ? 'bg-cyan-300 text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/about">Présentation</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/skills' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-white <?= $currentPage == '/skills' ? 'bg-cyan-300 text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/skills">Mes compétences</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/projects' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:text-white <?= $currentPage == '/projects' ? 'bg-cyan-300 text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/projects">Mes projets</a>
                 </li>
-                <li class="p-2 hover:text-slate-800 <?= $currentPage == '/contact' ? 'bg-white text-slate-800 rounded-lg shadow-md' : '' ?>">
+                <li class="p-2 hover:white <?= $currentPage == '/contact' ? 'bg-cyan-300 text-slate-800 rounded-lg shadow-md' : '' ?>">
                     <a href="/contact">Contact</a>
                 </li>
             </ul>

@@ -1,18 +1,10 @@
-<?php 
-/** 
- * Page contact
- * Traitement du formulaire de contact 
- * et envoi de l'email avec MailTrap
- */
-
-$firstname = htmlspecialchars(
-    $_POST['firstname'] ?? '',
-    ENT_HTML5,
-    // "UTF-8"
-);
-$lastname = htmlspecialchars($_POST['lastname'] ?? '');
+<?php
+if ($_SERVER["REQUEST_METHOD"] === "POST") {
+    echo '<pre>';
+    var_dump($_POST);
+    echo '</pre>';
+}
 ?>
-
 
 
 

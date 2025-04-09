@@ -59,7 +59,7 @@
 <main class="min-h-screen p-8">
   <h1 class="text-4xl font-bold text-center mb-10">Bienvenue sur mon portfolio</h1>
 
-  <div class="grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-4   lg:grid-rows-3 gap-6">
+  <div class="grid  grid-cols-1 sm:grid-cols-2 lg:grid-cols-4   lg:grid-rows-3 gap-6 mx-auto">
   
       <a href="/contact" class="relative rounded-2xl overflow-hidden shadow-lg group  lg:col-span-4 lg:row-span-1">">
         <img src="images/home_4.png" alt="Contactez-moi" class="absolute inset-0 w-full h-full object-cover group-hover:blur-sm transition-all duration-300">
