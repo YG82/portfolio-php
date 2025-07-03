@@ -76,7 +76,7 @@
       </div>
     </a>
     
-     
+    
     <div class="relative rounded-2xl overflow-hidden lg:col-span-2 lg:row-span-1 shadow-lg group h-48 sm:h-64">
       <img src="images/home_5.png" alt="Réseaux sociaux" class="absolute inset-0 w-full h-full object-cover group-hover:blur-sm transition-all duration-300">
       <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
@@ -109,7 +109,7 @@
     </a>
     
 
-     
+  
   </div>
 </main>
 

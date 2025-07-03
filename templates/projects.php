@@ -56,4 +56,4 @@ function toSlug(string $stackIcon): string
             </svg>
         </div>
     </div>
-<? endforeach; ?>
+    <?php endforeach; ?>
