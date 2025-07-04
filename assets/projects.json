@@ -1,12 +1,24 @@
 [
     {
-        "title": "E-commerce Store",
-        "description": "Un site de commerce électronique permettant aux utilisateurs d'acheter des produits en ligne.",
-        "link":"https://google.com",
+            "title": "Obtekt",
+            "description": "Détection et reconnaissance d'objets grâce à la webcam",
+            "stack": [
+                "Tensorflow",
+                "Node.js",
+                "React"
+            ]
+    },
+    {
+        "title": "Sallevenue",
+        "description": "Site de réservation de salle avec des critères ergonomiques et option",
+        "link": "https://google.com", 
         "stack": [
-            "React",
-            "Node.js",
-            "MongoDB"
+            "HTML",
+            "Symfony",
+            "PHP",
+            "TailwindCSS",
+            "JavaScript"
+            
         ]
     },
     {
@@ -20,16 +32,6 @@
         ]
     },
     {
-        "title": "Application de Gestion de Projets",
-        "description": "Une plateforme pour gérer des tâches et collaborer avec une équipe.",
-        "link":"https://google.com",
-        "stack": [
-            "Vue.js",
-            "Firebase",
-            "TailwindCSS"
-        ]
-    },
-    {
         "title": "Portfolio Photographique",
         "description": "Un site pour afficher et partager des photographies professionnelles.",
         "link":"https://google.com",
@@ -37,6 +39,28 @@
             "HTML",
             "CSS",
             "JavaScript"
+        ]
+    },
+    {
+        "title": "Application de Recettes de Cuisine",
+        "description": "Un site pour rechercher, partager et sauvegarder des recettes de cuisine.",
+        "link":"https://google.com",
+        "stack": [
+            "HTML",
+            "CSS",
+            "MongoDB",
+            "Node.js",
+            "React"
+        ]
+    },
+    {
+        "title": "Application de Gestion de Projets",
+        "description": "Une plateforme pour gérer des tâches et collaborer avec une équipe.",
+        "link":"https://google.com",
+        "stack": [
+            "Vue.js",
+            "Firebase",
+            "TailwindCSS"
         ]
     },
     {
@@ -60,13 +84,13 @@
         ]
     },
     {
-        "title": "Application de Recettes de Cuisine",
-        "description": "Un site pour rechercher, partager et sauvegarder des recettes de cuisine.",
+        "title": "E-commerce Store",
+        "description": "Un site de commerce électronique permettant aux utilisateurs d'acheter des produits en ligne.",
         "link":"https://google.com",
         "stack": [
-            "Django",
-            "Python",
-            "SQLite"
+            "React",
+            "Node.js",
+            "MongoDB"
         ]
     },
     {
