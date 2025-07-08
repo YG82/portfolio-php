@@ -45,15 +45,6 @@
             text-shadow: 0 0 5px #00f7ff, 0 0 10px #00f7ff, 0 0 20px #00f7ff;
         }
 
-        /* .td-glow {
-      text-shadow: 0 0 3px #0ff;
-    } */
-
-        /* .td-category {
-      font-weight: bold;
-      color: #00eaff;
-    } */
-
         .skill {
             display: inline-block;
             margin-inline: 20rem;
@@ -80,17 +71,34 @@
     <h1 class="text-5xl font-extrabold mb-10 neon animate-pulse">presentation</h1>
 
     <div class="skill text-center ">
-        <p class="text-lg text-white">Je suis une développeuse passionnée par la technologie et l'innovation. Mon parcours m’a permis d’acquérir des compétences variées, utiles dans le développement web, la gestion de projets et l’analyse de données.</p>
+        <p class="text-lg text-white">
+            Je suis une développeuse passionnée par la technologie et l'innovation. 
+            Mon parcours m’a permis d’acquérir des compétences variées, 
+            utiles dans le développement web, la gestion de projets et l’analyse de données.</p>
 
-        <p class="text-lg text-white">Toujours en quête de nouveaux défis, je cherche à apprendre continuellement et à évoluer dans un domaine en constante transformation.</p>
+        <p class="text-lg text-white">
+            Toujours en quête de nouveaux défis, je cherche à apprendre continuellement 
+            et à évoluer dans un domaine en constante transformation.</p>
 
-        <p class="text-lg text-white">Dotée d’un bon sens du relationnel, je suis convaincue que la collaboration et le partage des connaissances sont essentiels à la réussite dans le monde du développement. J’aime échanger, apprendre des autres et construire ensemble.</p>
+        <p class="text-lg text-white">
+            Dotée d’un bon sens du relationnel, je suis convaincue que la collaboration 
+            et le partage des connaissances sont essentiels à la réussite dans le monde du développement. 
+            J’aime échanger, apprendre des autres et construire ensemble.</p>
 
-        <p class="text-lg text-white">Suite à une mise en invalidité pour raisons de santé, j’ai dû réorienter ma carrière. Cette période m’a permis de réfléchir profondément à mes envies et mes objectifs professionnels.</p>
+        <p class="text-lg text-white">
+            Suite à une mise en invalidité pour raisons de santé, 
+            j’ai dû réorienter ma carrière. Cette période m’a permis de réfléchir 
+            profondément à mes envies et mes objectifs professionnels.</p>
 
-        <p class="text-lg text-white">Le développement web s’est rapidement imposé comme une évidence : un domaine dynamique, créatif, et riche en opportunités. Je me suis donc formée avec détermination afin d’acquérir les compétences nécessaires pour y réussir.</p>
+        <p class="text-lg text-white">
+            Le développement web s’est rapidement imposé comme une évidence : 
+            un domaine dynamique, créatif, et riche en opportunités. 
+            Je me suis donc formée avec détermination afin d’acquérir 
+            les compétences nécessaires pour y réussir.</p>
 
-        <p class="text-lg text-white">Je suis impatiente de mettre mes compétences au service d’une entreprise qui partage mes valeurs et prête à contribuer à des projets innovants.</p>
+        <p class="text-lg text-white">
+            Je suis impatiente de mettre mes compétences au service d’une entreprise qui partage 
+            mes valeurs et prête à contribuer à des projets innovants.</p>
 
     </div>
 </div>
