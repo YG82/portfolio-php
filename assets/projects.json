@@ -13,7 +13,7 @@
         "description": "Site de réservation de salle avec des critères ergonomiques et option",
         "link": "https://google.com", 
         "stack": [
-            "HTML",
+            "sass",
             "Symfony",
             "PHP",
             "TailwindCSS",
@@ -36,8 +36,8 @@
         "description": "Un site pour afficher et partager des photographies professionnelles.",
         "link":"https://google.com",
         "stack": [
-            "HTML",
-            "CSS",
+            "React",
+            "TailwindCSS",
             "JavaScript"
         ]
     },
@@ -46,8 +46,7 @@
         "description": "Un site pour rechercher, partager et sauvegarder des recettes de cuisine.",
         "link":"https://google.com",
         "stack": [
-            "HTML",
-            "CSS",
+            "CSS3",
             "MongoDB",
             "Node.js",
             "React"
@@ -69,7 +68,7 @@
         "link":"https://google.com",
         "stack": [
             "Angular",
-            ".NET Core",
+            "Java",
             "Azure"
         ]
     },
@@ -79,7 +78,7 @@
         "link":"https://google.com",
         "stack": [
             "Next.js",
-            "GraphQL",
+            "fastapi",
             "PostgreSQL"
         ]
     },
@@ -98,7 +97,7 @@
         "description": "Un réseau social permettant aux utilisateurs de se connecter et partager du contenu.",
         "link":"https://google.com",
         "stack": [
-            "Ruby on Rails",
+            "adonisjs",
             "Redis",
             "Bootstrap"
         ]
@@ -118,8 +117,8 @@
         "description": "Un site pour suivre les activités physiques et objectifs santé.",
         "link":"https://google.com",
         "stack": [
-            "Flutter Web",
-            ".NET API",
+            "Flutter",
+            "Java",
             "PostgreSQL"
         ]
     }
